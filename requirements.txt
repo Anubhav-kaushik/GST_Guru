@@ -1,0 +1,11 @@
+pandas
+numpy
+python-dotenv
+openpyxl
+xlrd
+json
+typing
+os
+datetime
+re
+networkx

@@ -1,0 +1,33 @@
+{
+    "gst_rate": 18,
+    "date_format": "%Y-%m-%d",
+    "valid_transport_modes": [
+        "Road",
+        "Rail",
+        "Air",
+        "Ship"
+    ],
+    "valid_port_codes": [
+        "INBOM",
+        "INDEL",
+        "INMAA"
+    ],
+    "data_mapping": {
+        "gstin": "GSTIN",
+        "invoice_number": "Invoice Number",
+        "invoice_date": "Invoice Date",
+        "supplier_name": "Supplier Name",
+        "recipient_name": "Recipient Name",
+        "total_amount": "Total Amount",
+        "tax_amount": "Tax Amount",
+        "item_description": "Item Description"
+    },
+    "file_prefixes": {
+        "gst_gen": "gst_gen",
+        "gstr2b": "gstr2b",
+        "annexureb": "annexureb",
+        "gstr3b": "gstr3b",
+        "rfd01": "rfd01",
+        "ewaybill": "ewaybill"
+    }
+}
